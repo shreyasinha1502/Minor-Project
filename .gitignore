@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Presentation artifacts (not part of the software project)
+*.pptx
+make_ppt.py
+
+# OS
+Thumbs.db
+.DS_Store

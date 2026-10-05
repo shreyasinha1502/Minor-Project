@@ -1,0 +1,16 @@
+{
+  "n_problems": 108,
+  "agent_accuracy": 0.787037037037037,
+  "error_rate_before": 0.21296296296296297,
+  "error_rate_among_accepted": 0.0,
+  "verifier_recall": 1.0,
+  "verifier_precision": 0.8846153846153846,
+  "roc_auc": 0.9777493606138108,
+  "true_positives": 23,
+  "false_positives": 3,
+  "false_negatives": 0,
+  "n_flagged": 26,
+  "n_accepted": 82,
+  "mean_confidence_when_right": 0.913309239698698,
+  "mean_confidence_when_wrong": 0.9211752972038881
+}
